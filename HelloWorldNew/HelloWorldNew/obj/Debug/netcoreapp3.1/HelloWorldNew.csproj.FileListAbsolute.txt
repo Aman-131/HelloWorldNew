@@ -1,0 +1,11 @@
+C:\Users\amans\Desktop\SENG8040Work\HelloWorldNew\HelloWorldNew\bin\Debug\netcoreapp3.1\HelloWorldNew.exe
+C:\Users\amans\Desktop\SENG8040Work\HelloWorldNew\HelloWorldNew\bin\Debug\netcoreapp3.1\HelloWorldNew.deps.json
+C:\Users\amans\Desktop\SENG8040Work\HelloWorldNew\HelloWorldNew\bin\Debug\netcoreapp3.1\HelloWorldNew.runtimeconfig.json
+C:\Users\amans\Desktop\SENG8040Work\HelloWorldNew\HelloWorldNew\bin\Debug\netcoreapp3.1\HelloWorldNew.runtimeconfig.dev.json
+C:\Users\amans\Desktop\SENG8040Work\HelloWorldNew\HelloWorldNew\bin\Debug\netcoreapp3.1\HelloWorldNew.dll
+C:\Users\amans\Desktop\SENG8040Work\HelloWorldNew\HelloWorldNew\bin\Debug\netcoreapp3.1\HelloWorldNew.pdb
+C:\Users\amans\Desktop\SENG8040Work\HelloWorldNew\HelloWorldNew\obj\Debug\netcoreapp3.1\HelloWorldNew.csprojAssemblyReference.cache
+C:\Users\amans\Desktop\SENG8040Work\HelloWorldNew\HelloWorldNew\obj\Debug\netcoreapp3.1\HelloWorldNew.AssemblyInfoInputs.cache
+C:\Users\amans\Desktop\SENG8040Work\HelloWorldNew\HelloWorldNew\obj\Debug\netcoreapp3.1\HelloWorldNew.AssemblyInfo.cs
+C:\Users\amans\Desktop\SENG8040Work\HelloWorldNew\HelloWorldNew\obj\Debug\netcoreapp3.1\HelloWorldNew.dll
+C:\Users\amans\Desktop\SENG8040Work\HelloWorldNew\HelloWorldNew\obj\Debug\netcoreapp3.1\HelloWorldNew.pdb
